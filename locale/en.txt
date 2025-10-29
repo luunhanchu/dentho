@@ -1,0 +1,95 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_D3BC72DC_C8F3_31F9_41D0_EF14CC55E361.source = http://www.loremipsum.com
+LinkBehaviour_D3B902C0_C8F3_31C9_41C0_B64351B82B5E.source = http://www.loremipsum.com
+WebFrame_198A3B12_1666_89B6_41B5_4C2585EFD00E_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710.495509344292!2d105.64124657472891!3d21.566573069090673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134dc618a89f8c1%3A0x7c9b3b48c5cf484e!2zxJDhu4FuIEzGsHUgTmjDom4gQ2jDug!5e0!3m2!1svi!2s!4v1760008033031!5m2!1svi!2s
+WebFrame_198A3B12_1666_89B6_41B5_4C2585EFD00E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3710.495509344292!2d105.64124657472891!3d21.566573069090673!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134dc618a89f8c1%3A0x7c9b3b48c5cf484e!2zxJDhu4FuIEzGsHUgTmjDom4gQ2jDug!5e0!3m2!1svi!2s!4v1760008033031!5m2!1svi!2s
+WebFrame_D8E2E56D_CE29_C92B_41E8_98717D2DF5BD.url = //www.youtube.com/embed/2ObE6O77i_c?si=0UFpZZfK1Sxkqdvh
+WebFrame_1DEAF4E3_0C5E_4E6E_4148_DAFB424DFAED.url = //www.youtube.com/embed/2ObE6O77i_c?si=0UFpZZfK1Sxkqdvh
+
+## Media
+
+### Audio
+audiores_18B51993_09B0_C4C7_4173_AE58EE804A80.mp3Url = media/audio_06D917F5_0953_4C43_4171_5443C63E5100_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_C2CEBB8D_D0AC_4C9D_41E9_1434B262CFD3.label = BÊN PHẢI NHÀ ĐỀN
+panorama_CD4272BF_C698_0C51_41CB_CFE2CCCB367D.label = BÊN TRÁI NHÀ ĐỀN
+panorama_CD4634AF_C698_1471_41E0_C55F26F3103D.label = SAU ĐỀN
+panorama_CD427DBB_C698_1451_41E4_C84A24ED84ED.label = SAU ĐỀN
+panorama_CD438913_C698_1C51_41D4_6023EAC8D82F.label = SÂN SAU ĐỀN
+panorama_D0F0424D_DCCE_7467_41D3_9DAED2C13B4C.label = SÂN TRƯỚC
+panorama_CA6B7D90_C698_3450_41E4_E159753E9D9E.label = SÂN ĐỀN
+panorama_CD421C62_C698_74F3_41E5_9CB87D4485BF.label = TOÀN CẢNH
+panorama_D9E384C0_C891_F1C9_41E2_F785BA6758BD.label = TOÀN CẢNH
+panorama_D07C8D7D_DCCE_4C27_41C2_67E38D12D92A.label = ĐƯỜNG VÀO ĐỀN
+panorama_CD4216ED_C698_15F1_41E7_7C53BA5A332E.label = ĐỀN BÊN PHẢI
+panorama_D4E24DC8_C6B8_143F_41CD_E30D40E21881.label = ĐỀN BÊN TRÁI
+panorama_D0F236FD_DCCE_7C27_41DF_40704F28301D.label = ĐỀN CHÍNH
+panorama_CD42D789_C698_7431_41E3_72B7D58EF4ED.label = ĐỀN THỜ CŨ
+
+## Skin
+
+### Button
+Button_18126A3F_1663_8BEF_41A4_B0EDA1A5F4E3.label = BOOK NOW
+Button_18126A3F_1663_8BEF_41A4_B0EDA1A5F4E3_mobile.label = BOOK NOW
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762_mobile.label = GIỚI THIỆU
+Button_03D37B27_0C7A_63B3_41A1_89572D8C8762.label = GIỚI THIỆU
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = THƯ VIỆN 3D
+Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = THƯ VIỆN 3D
+Button_D918B1C7_CE18_4966_41E1_5EF25E473851.label = THƯ VIỆN ẢNH
+Button_1EBF3282_0C0A_1D6D_4190_52FC7F8C00A5_mobile.label = THƯ VIỆN ẢNH
+Button_D9C4220A_CE18_CAE9_41DA_78A2378312CE.label = VIDEO
+Button_03AD03D9_0C52_CA5A_41A2_CA11BF890E5F.label = VIDEO
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD.label = VỊ TRÍ
+Button_1CA392FC_0C0A_2295_41A3_18DEA65FB6AD_mobile.label = VỊ TRÍ
+
+### Image
+Image_1C0A8FC0_0E74_718F_41A3_1E44C5202FEF.url = skin/Image_1C0A8FC0_0E74_718F_41A3_1E44C5202FEF_en.jpg
+Image_1C0A9FC1_0E74_718E_4197_FDD0CC2FCE80.url = skin/Image_1C0A9FC1_0E74_718E_4197_FDD0CC2FCE80_en.jpg
+Image_1C0AAFC0_0E74_718E_41AA_6DEE02B69B17.url = skin/Image_1C0AAFC0_0E74_718E_41AA_6DEE02B69B17_en.jpg
+Image_1C0B3FC1_0E74_718E_4172_29AF09095BCA.url = skin/Image_1C0B3FC1_0E74_718E_4172_29AF09095BCA_en.jpg
+Image_1C0B8FC1_0E74_718E_4196_7DE237136091.url = skin/Image_1C0B8FC1_0E74_718E_4196_7DE237136091_en.jpg
+Image_1C0B9FC1_0E74_718E_419F_DFEF0D02EA82.url = skin/Image_1C0B9FC1_0E74_718E_419F_DFEF0D02EA82_en.jpg
+Image_1C0BCFC1_0E74_718E_4192_E48C5CEC57BA.url = skin/Image_1C0BCFC1_0E74_718E_4192_E48C5CEC57BA_en.jpg
+Image_1C0BDFC1_0E74_718E_4178_D285EE529D7B.url = skin/Image_1C0BDFC1_0E74_718E_4178_D285EE529D7B_en.jpg
+Image_1C0BEFC1_0E74_718E_4183_AC67B21966BD.url = skin/Image_1C0BEFC1_0E74_718E_4183_AC67B21966BD_en.jpg
+Image_1C0BFFC1_0E74_718E_4194_8EB0D2804336.url = skin/Image_1C0BFFC1_0E74_718E_4194_8EB0D2804336_en.jpg
+Image_1FDF2347_0C72_CBB6_419B_7456918A5BCB.url = skin/Image_1FDF2347_0C72_CBB6_419B_7456918A5BCB_en.jpg
+Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_en.png
+Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_en.png
+Image_C0F7D63D_DCCF_BC26_41AE_A979827ABEDF.url = skin/Image_C0F7D63D_DCCF_BC26_41AE_A979827ABEDF_en.jpg
+Image_C42E5BB4_DD32_7426_41D9_66F9FFEA7FEB.url = skin/Image_C42E5BB4_DD32_7426_41D9_66F9FFEA7FEB_en.jpg
+Image_C552BB68_DCCE_542E_41BE_DA584BBFE46D.url = skin/Image_C552BB68_DCCE_542E_41BE_DA584BBFE46D_en.jpg
+Image_C6B32681_DD31_FCDE_41BE_6FD3C2D8ABF6.url = skin/Image_C6B32681_DD31_FCDE_41BE_6FD3C2D8ABF6_en.jpg
+Image_C7280FD9_DD33_CC6F_41EA_BFCFC100FAC1.url = skin/Image_C7280FD9_DD33_CC6F_41EA_BFCFC100FAC1_en.jpg
+Image_C7293A63_DD32_D423_41D1_0FE86F34AE79.url = skin/Image_C7293A63_DD32_D423_41D1_0FE86F34AE79_en.jpg
+Image_C72D0833_DD32_5423_41BC_749F5E6A8816.url = skin/Image_C72D0833_DD32_5423_41BC_749F5E6A8816_en.jpg
+Image_C72EBC82_DD32_4CE2_41D7_9C49E59926A1.url = skin/Image_C72EBC82_DD32_4CE2_41D7_9C49E59926A1_en.jpg
+Image_D39D3148_C8F1_30D9_41CF_8D23D97D7512.url = skin/Image_D39D3148_C8F1_30D9_41CF_8D23D97D7512_en.jpg
+Image_F101BC77_E5B7_41FF_41D5_02BC9B724377.url = skin/Image_F101BC77_E5B7_41FF_41D5_02BC9B724377_en.jpg
+Image_F65A18C5_E5B7_4112_41BF_66A68A7900C7.url = skin/Image_F65A18C5_E5B7_4112_41BF_66A68A7900C7_en.jpg
+
+### Multiline Text
+HTMLText_0B1CF751_121B_B3B2_41AA_8DF6E24BB6F1.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.17vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:2.1707670043415357vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.17vh;font-family:'Open Sans Semibold';">Vào cuối năm 2009 công trình được khánh thành. Nơi đây thờ vị tể tướng Lưu Nhân Chú. Di tích đã được Bộ Văn hóa, Thể thao và Du lịch xếp hạng di tích Quốc gia năm 1981 tại Quyết định số 10-VHTT/QĐ ngày 09/02/1981. Để xứng tầm với vị thế của người hùng Lưu Nhân Chú, Ủy ban nhân dân tỉnh Thái Nguyên đã xây dựng đền thờ ông dưới chân núi Võ, xã Văn Yên, huyện Đại Từ,tỉnh Thái Nguyên (nay thuộc xã Vạn Phú-tỉnh Thái Nguyên). Đền thờ được xây dựng với các hạng mục chính: Đền thờ chính, sân lễ hội, nhà tả vu, hữu vu, nhà khách, vườn hoa, cổng, đường vào ... với diện tích khoảng 60m2 . Với mục tiêu bảo tồn, tôn tạo và phát huy giá trị di tích lịch sử quốc gia núi Văn – núi Võ, Ủy ban nhân dân tỉnh Thái Nguyên đã ban hành quyết định số 4285/QĐ-UBND, ngày 31 tháng 12 năm 2020 về việc phê duyệt quy hoạch, bảo quản, tu bổ, phục hồi và phát huy giá trị di tích núi Văn – núi Võ, tỉnh Thái Nguyên. Hằng năm vào ngày mùng 4 tháng Giêng tại nơi đây vẫn diễn ra lễ hội tưởng nhớ, tôn vinh vị anh hùng Lưu Nhân Chú.</SPAN></SPAN></DIV></div>
+HTMLText_D119191B_C8B2_F07E_41CD_1F70C91D4F0B.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:126%;text-align:left;font-size:42px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009900;font-size:42px;font-family:'Otama.ep';"><B>DI TÍCH LỊCH SỬ QUỐC GIA</B></SPAN></SPAN></DIV><DIV STYLE="line-height:126%;text-align:left;font-size:31px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:31px;font-family:'Otama.ep';"><B>ĐỀN THỜ LƯU NHÂN CHÚ</B></SPAN></SPAN></DIV></div>
+HTMLText_1EF802F2_0C72_CA6E_4166_209942866644.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.7948717948717954vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.79vh;font-family:'Open Sans Semibold';">Vào cuối năm 2009 công trình được khánh thành. Nơi đây thờ vị tể tướng Lưu Nhân Chú. Di tích đã được Bộ Văn hóa, Thể thao và Du lịch xếp hạng di tích Quốc gia năm 1981 tại Quyết định số 10-VHTT/QĐ ngày 09/02/1981. Để xứng tầm với vị thế của người hùng Lưu Nhân Chú, Ủy ban nhân dân tỉnh Thái Nguyên đã xây dựng đền thờ ông dưới chân núi Võ, xã Văn Yên, huyện Đại Từ,tỉnh Thái Nguyên (nay thuộc xã Vạn Phú-tỉnh Thái Nguyên). Đền thờ được xây dựng với các hạng mục chính: Đền thờ chính, sân lễ hội, nhà tả vu, hữu vu, nhà khách, vườn hoa, cổng, đường vào ... với diện tích khoảng 60m2 . Với mục tiêu bảo tồn, tôn tạo và phát huy giá trị di tích lịch sử quốc gia núi Văn – núi Võ, Ủy ban nhân dân tỉnh Thái Nguyên đã ban hành quyết định số 4285/QĐ-UBND, ngày 31 tháng 12 năm 2020 về việc phê duyệt quy hoạch, bảo quản, tu bổ, phục hồi và phát huy giá trị di tích núi Văn – núi Võ, tỉnh Thái Nguyên. Hằng năm vào ngày mùng 4 tháng Giêng tại nơi đây vẫn diễn ra lễ hội tưởng nhớ, tôn vinh vị anh hùng Lưu Nhân Chú.</SPAN></SPAN></DIV></div>
+HTMLText_1EF832F1_0C72_CA6A_41A8_5069383196B2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.615384615384618vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.62vh;font-family:&quot;Times New Roman&quot;, Times, serif;">ĐỀN THỜ LƯU NHÂN CHÚ</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.615384615384618vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.62vh;font-family:&quot;Times New Roman&quot;, Times, serif;">ĐỀN THỜ LƯU NHÂN CHÚ</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.5900000000000025vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.59vh;font-family:'Otama.ep';"><B>HÌNH ẢNH 3D</B></SPAN></SPAN></DIV></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.486251808972505vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:4.49vh;font-family:&quot;Times New Roman&quot;, Times, serif;"><B>ĐỀN THỜ LƯU NHÂN CHÚ</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.27vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.4602026049204055vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.46vh;font-family:&quot;Times New Roman&quot;, Times, serif;"><B><I>Địa chỉ: Xã Vạn Phú, tỉnh Thái Nguyên, Việt Nam ( trước là xã Văn Yên, huyện Đại Từ, tỉnh Thái Nguyên).</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.56vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5.63vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.7vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.630000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.63vh;font-family:&quot;Times New Roman&quot;, Times, serif;">ĐỀN THỜ LƯU NHÂN CHÚ</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.920000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.92vmin;font-family:'Otama.ep';">HÌNH ẢNH 3D</SPAN></SPAN></DIV></div>
+HTMLText_18127A3F_1663_8BEF_4175_B0DF8CE38BFE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.277777777777787vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:10.28vmin;font-family:&quot;Times New Roman&quot;, Times, serif;"><B>ĐỀN THỜ LƯU NHÂN CHÚ</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.36vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.34vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;font-family:&quot;Times New Roman&quot;, Times, serif;"><B><I>Địa chỉ: Xã Vạn Phú, tỉnh Thái Nguyên, Việt Nam ( trước là xã Văn Yên, huyện Đại Từ, tỉnh Thái Nguyên).</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.11vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_1B152855_0992_FDC2_419D_CCF0A4049871.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:8.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:126%;text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#009900;font-size:19px;font-family:'Otama.ep';"><B>DI TÍCH LỊCH SỬ QUỐC GIA</B></SPAN></SPAN></DIV><DIV STYLE="line-height:126%;text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Otama.ep';"><B>ĐỀN THỜ LƯU NHÂN CHÚ</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
