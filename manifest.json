@@ -1,9 +1,8 @@
 {
+ "background_color": "#FFFFFF",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF",
  "name": "Untitled 3",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "src": "misc/icon150.png",
@@ -40,5 +39,6 @@
    "sizes": "64x64",
    "type": "image/png"
   }
- ]
+ ],
+ "start_url": "index.htm?installed=true"
 }
